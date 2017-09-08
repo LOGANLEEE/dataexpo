@@ -1,0 +1,23 @@
+load data local infile '1987_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1988_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1989_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1990_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1991_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1992_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1993_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1994_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1995_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1996_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1997_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1998_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '1999_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '2000_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '2001_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '2002_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '2003_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '2004_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '2005_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '2006_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '2007_na_to_null.csv' into table ontime fields terminated by ",";
+load data local infile '2008_na_to_null.csv' into table ontime fields terminated by ",";
+
